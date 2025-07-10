@@ -14,7 +14,7 @@
 Here are some of my deployed Streamlit apps:
 
 ### 🔁 LRU Cache Visualizer  
-[![Open LRU Cache App](https://img.shields.io/badge/LRU--Cache-Live-blue?style=for-the-badge)](http://lrucache-kvr.streamlit.app)  
+[![Open LRU Cache App](https://img.shields.io/badge/LRU--Cache-Live-blue?style=for-the-badge)](http://lru-cache-kvr.streamlit.app)  
 An interactive tool to understand how LRU Cache works using Python and Streamlit.
 
 ---
