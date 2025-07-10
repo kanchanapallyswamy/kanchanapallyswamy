@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm swamy kanchanapally</h1>
 <h3 align="center">"I’m Passionate About Problem Solving — This is My Journey Through DSA with Java"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanchanapallyswamy&label=Profile%20views&color=0e75b6&style=flat" alt="kanchanapallyswamy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanchanapallyswamy" alt="kanchanapallyswamy" /></a> </p>
 
 - 🌱 I’m currently learning **DSA with Java**
 
@@ -51,4 +49,3 @@ Visualizes running median calculation using heaps in real-time.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanchanapallyswamy&show_icons=true&locale=en" alt="kanchanapallyswamy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchanapallyswamy&" alt="kanchanapallyswamy" /></p>
