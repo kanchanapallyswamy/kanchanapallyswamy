@@ -1,11 +1,23 @@
-<h1 align="center">Hi 👋, I'm swamy kanchanapally</h1>
-<h3 align="center">"I’m Passionate About Problem Solving — This is My Journey Through DSA with Java"</h3>
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Swamy+Kanchanapally;Java+%7C+DSA+%7C+Problem+Solver;Welcome+to+my+GitHub+Journey!" alt="Typing SVG" />
+</p>
 
+<h3 align="center">🚀 Passionate about Problem Solving with Java & DSA</h3>
 
+---
 
-- 🌱 I’m currently learning **DSA with Java**
+### 🌟 About Me
 
-- 📫 How to reach me **kanchanapallyswamy@gmail.com**
+- 🎓 I'm currently exploring **DSA**, **Java**, and **Web Development**
+- 🧠 Focused on sharpening problem-solving with **LeetCode** & **Codeforces**
+- 📫 Reach me at **kanchanapallyswamy@gmail.com**
+
+---
+
+### 📊 LeetCode Live Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kvr_swamy?theme=dark&font=Karma&ext=activity)](https://leetcode.com/u/kvr_swamy/)
 
 ---
 
@@ -25,27 +37,46 @@ Visualizes running median calculation using heaps in real-time.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🧰 Languages and Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/swamy kanchanapally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swamy kanchanapally" height="30" width="40" /></a>
-<a href="https://instagram.com/_kvr.131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kvr.131" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kvr_swamy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kvr_swamy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kvr_swamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kvr_swamy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kvr_swamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kvr_swamy" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/swamy-kanchanapally" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://leetcode.com/kvr_swamy" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40" />
+  </a>
+  <a href="https://www.codechef.com/users/kvr_swamy" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3521354-2944792.png" alt="CodeChef" width="40" height="40" />
+  </a>
+  <a href="https://instagram.com/_kvr.131" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" width="40" height="40" />
+  </a>
+  <a href="https://codeforces.com/profile/kvr_swamy" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3629285-3031869.png" alt="Codeforces" width="40" height="40" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanchanapallyswamy&show_icons=true&locale=en&layout=compact" alt="kanchanapallyswamy" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanchanapallyswamy&show_icons=true&locale=en" alt="kanchanapallyswamy" /></p>
+### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanchanapallyswamy&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanchanapallyswamy&layout=compact&theme=tokyonight" />
+</p>
